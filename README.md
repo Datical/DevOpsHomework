@@ -3,4 +3,4 @@ An initial starting repository for Homework by folks interviewing for DevOps pos
 
 Do not clone this repository directly! Anyone doing homework should first fork this repository and use that as the source.
 
-Instructions for doing the homework are located [in the Datical Confluence system](https://datical.atlassian.net/wiki/spaces/DVOP/pages/474678275/DevOps+Interview+Homework).
+Instructions for doing the homework are located [in the Datical Confluence system](https://datical.atlassian.net/wiki/spaces/DVOP/pages/474678275/DevOps+Interview+Homework) which is not publicly accessible, and will be shared with the candidate when the assignment is given.
